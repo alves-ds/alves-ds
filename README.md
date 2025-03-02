@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Douglas Silva Alves</h1>
-<h3 align="center">A beginner data scientist and computer engineering student</h3>
+<h3 align="center">A data analyst and data science student</h3>
 
 - 🔭 I’m currently working on **learn backend web development**
 
